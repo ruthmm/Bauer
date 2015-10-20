@@ -1,0 +1,56 @@
+@charset "UTF-8";
+/* http://www.cssdrive.com/imagepalette/index.php */
+body{font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif; background-color: #fff;}
+.colour-table .colour td 
+{
+	width: 20px;
+	height: 90px;  
+	
+	}
+	.colour-table .text td{
+		color: #000;
+		height: 20px; 
+		text-align: center;
+		font-size: 8px;}
+		
+	.colour-table .colour td img {width: 20px; height: 90px;}
+/* image a2734010 */
+#a2734010 .color1 { background-color: #f7f1ea; color: #f7f1ea;}
+#a2734010 .color2 { background-color: #eee3d5; color: #eee3d5;}
+#a2734010 .color3 { background-color: #efe3d9; color: #efe3d9;}
+#a2734010 .color4 { background-color: #dfc7b3; color: #dfc7b3;}
+#a2734010 .color5 { background-color: #bebc9f; color: #bebc9f;}
+#a2734010 .color6 { background-color: #7d793f; color: #7d793f;}
+#a2734010 .color7 { background-color: #594f47; color: #594f47;}
+#a2734010 .color8 { background-color: #323019; color: #323019;}
+
+/*image a2734018 */
+#a2734018 .color1 { background-color: #ecd0af; color: #ecd0af;}
+#a2734018 .color2 { background-color: #ffaa84; color: #ffaa84;}
+#a2734018 .color3 { background-color: #ffd5c2; color: #ffd5c2;}
+#a2734018 .color4 { background-color: #e5e3d0; color: #e5e3d0;}
+#a2734018 .color5 { background-color: #cac7a0; color: #cac7a0;}
+#a2734018 .color6 { background-color: #504f40; color: #504f40;}
+#a2734018 .color7 { background-color: #cd9267; color: #cd9267;}
+#a2734018 .color8 { background-color: #f27c70; color: #f27c70;}
+
+/*image a2734016 */
+#a2734016 .color1 { background-color: #f4efe6; color: #f4efe6;}
+#a2734016 .color2 { background-color: #fceab1; color: #fceab1;}
+#a2734016 .color3 { background-color: #f9d562; color: #f9d562;}
+#a2734016 .color4 { background-color: #c2b785; color: #c2b785;}
+#a2734016 .color5 { background-color: #c6a77b; color: #c6a77b;}
+#a2734016 .color6 { background-color: #b87b4e; color: #b87b4e;}
+#a2734016 .color7 { background-color: #635527; color: #635527;}
+#a2734016 .color8 { background-color: #49311f; color: #49311f;}
+
+/*image a2734012  */
+#a2734012 .color1 { background-color: #383f4b; color: #383f4b;}
+#a2734012 .color2 { background-color: #b69f82; color: #b69f82;}
+#a2734012 .color3 { background-color: #cbbaa9; color: #cbbaa9;}
+#a2734012 .color4 { background-color: #b5ae84; color: #b5ae84;}
+#a2734012 .color5 { background-color: #dacea4; color: #dacea4;}
+#a2734012 .color6 { background-color: #dbdfd7; color: #dbdfd7;}
+#a2734012 .color7 { background-color: #c6cfde; color: #c6cfde;}
+#a2734012 .color8 { background-color: #8c9ebc; color: #8c9ebc;}
+
